@@ -200,7 +200,7 @@ body {
 .hb-pills { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
 .hb-pill {
   font-size: 14px; color: #4A4A4A;
-  background: #1f498d23;
+  background: #1f498d0f;
   border: 1px solid rgb(255, 255, 255);
   border-radius: 20px; padding: 4px 12px;
   display: flex; align-items: center; gap: 5px;
