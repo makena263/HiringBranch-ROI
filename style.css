@@ -136,7 +136,7 @@ body {
 
 /* Results */
 .results-card {
-  background: #f4eed9;
+  background: #f4eed973;
   border-radius: var(--radius-lg);
   border: 3px solid var(--teal);
   padding: 28px;
