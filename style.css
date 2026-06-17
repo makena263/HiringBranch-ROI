@@ -171,7 +171,7 @@ body {
   margin-bottom: 6px; font-weight: 600;
   text-transform: uppercase; letter-spacing: 0.06em;
 }
-.hb-kpi-val { font-size: 20px; font-weight: 600; color: var(--teal); }
+.hb-kpi-val { font-size: 24px; font-weight: 600; color: var(--teal); }
 .hb-kpi-sub { font-size: 12px; color: ; margin-top: 3px; }
 .hb-kpi.dim .hb-kpi-val { color: var(--grey); }
 .hb-kpi.dim .hb-kpi-sub { color: var(--grey); }
